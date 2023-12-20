@@ -1,0 +1,16 @@
+[gd_scene load_steps=3 format=3 uid="uid://coatkv3sv6q4d"]
+
+[ext_resource type="Texture2D" uid="uid://clwpo83yorvtm" path="res://assets/enemy.png" id="1_k6t5q"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_x32bd"]
+size = Vector2(735, 1015)
+
+[node name="Enemy" type="RigidBody2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+texture = ExtResource("1_k6t5q")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+position = Vector2(-4.5, 7.5)
+shape = SubResource("RectangleShape2D_x32bd")
+debug_color = Color(0, 0.6, 0.701961, 0.419608)
