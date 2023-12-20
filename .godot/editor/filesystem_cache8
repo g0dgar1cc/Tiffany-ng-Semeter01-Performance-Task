@@ -1,10 +1,11 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1703098789
+::res://::1703098897
 README.md::TextFile::-1::1703098677::0::1::::<><>::
-world.tscn::PackedScene::8572041307841182928::1703002733::0::1::::<><>::uid://bwmny50vdxvr1::::res://assets/wallpaperCabin.jpg
-::res://assets/::1702496524
+world.tscn::PackedScene::8572041307841182928::1703098811::0::1::::<><>::uid://bwmny50vdxvr1::::res://assets/wallpaperCabin.jpg
+::res://assets/::1703098791
 bg_music.mp3::AudioStreamMP3::7740025162993226110::1702496337::1703098790::1::::<><>::
 enemy.png::CompressedTexture2D::5591272491634969294::1702495914::1703098790::1::::<><>::
 enemy_hit.mp3::AudioStreamMP3::1957515573300041468::1702496418::1703098790::1::::<><>::
 player.png::CompressedTexture2D::1513000979231670107::1702495992::1703098790::1::::<><>::
 wallpaperCabin.jpg::CompressedTexture2D::3956181572017908856::1702488696::1703098791::1::::<><>::
+::res://scenes/::1703098897
