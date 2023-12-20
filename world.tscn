@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://duemjd0qhekrw"]
+
+[ext_resource type="Texture2D" uid="uid://bwmny50vdxvr1" path="res://assets/wallpaperCabin.jpg" id="1_85gfb"]
+
+[node name="World" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+scale = Vector2(0.61, 0.61)
+texture = ExtResource("1_85gfb")
+centered = false
